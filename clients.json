@@ -21,8 +21,17 @@
           "about": "Creating beautiful outdoor living spaces that extend your home's comfort outside. From concept to completion, we handle every aspect of your deck project.",
           "phone": "+14015552020",
           "website": "https://outdoorlivingri.com"
+        },
+        {
+          "name": "Ocean Deck Builders",
+          "rating": 3.1,
+          "location": "Jamestown, RI",
+          "services": "Deck Installation | Repair | Custom Designs",
+          "about": "Coastal deck specialists who understand the unique challenges of Rhode Island's marine environment. We build decks that withstand salt air and weather.",
+          "phone": "+14015551111",
+          "website": "https://oceandeckbuildersri.com"
         }
-       ]
+      ]
     },
     "Fencing": {
       "name": "Fencing Companies",
@@ -432,18 +441,27 @@
         }
       ]
     },
-    "GarageDoor": {
-      "name": "Garage Door Services",
-      "icon": "fas fa-door-open",
+    "PressureWashing": {
+      "name": "Pressure Washing",
+      "icon": "fas fa-spray-can",
       "businesses": [
         {
-          "name": "Garage Door Experts RI",
-          "rating": 4.6,
-          "location": "Johnston, RI",
-          "services": "Installation | Repair | Opener Service | Emergency Repair",
-          "about": "Professional garage door installation and repair services. We offer same-day service for emergency repairs and installation of quality garage doors.",
-          "phone": "+14015555555",
-          "website": "https://garagedoorexpertsri.com"
+          "name": "Power Wash Pro RI",
+          "rating": 4.7,
+          "location": "Warwick, RI",
+          "services": "House Washing | Driveway Cleaning | Deck & Patio Cleaning",
+          "about": "Professional pressure washing services for residential and commercial properties. We specialize in safe, effective cleaning that restores your property's appearance.",
+          "phone": "+14015556767",
+          "website": "https://powerwashprori.com"
+        },
+        {
+          "name": "Clean Slate Pressure Washing",
+          "rating": 4.5,
+          "location": "Providence, RI",
+          "services": "Exterior Cleaning | Roof Washing | Commercial Services",
+          "about": "Expert pressure washing services using eco-friendly methods. We provide thorough cleaning for all exterior surfaces with guaranteed results.",
+          "phone": "+14015556868",
+          "website": "https://cleanslatepressurewashing.com"
         }
       ]
     },
@@ -459,6 +477,30 @@
           "about": "Advanced home security systems with smart technology and professional monitoring. We provide complete security solutions for your peace of mind.",
           "phone": "+14015555656",
           "website": "https://securehomesolutionsri.com"
+        }
+      ]
+    },
+    "WindowCleaning": {
+      "name": "Window Cleaning",
+      "icon": "fas fa-window-restore",
+      "businesses": [
+        {
+          "name": "Crystal Clear Window Cleaning",
+          "rating": 4.8,
+          "location": "Newport, RI",
+          "services": "Residential & Commercial | Interior & Exterior | Screen Cleaning",
+          "about": "Professional window cleaning services with a focus on streak-free results. We provide regular maintenance schedules and one-time cleaning services for homes and businesses.",
+          "phone": "+14015556969",
+          "website": "https://crystalclearwindowsri.com"
+        },
+        {
+          "name": "Shine Bright Window Services",
+          "rating": 4.6,
+          "location": "Cranston, RI",
+          "services": "Window Cleaning | Gutter Cleaning | Pressure Washing",
+          "about": "Complete exterior cleaning services including professional window cleaning, gutter maintenance, and pressure washing. We ensure your property looks its best year-round.",
+          "phone": "+14015557070",
+          "website": "https://shinebrightwindowsri.com"
         }
       ]
     }
