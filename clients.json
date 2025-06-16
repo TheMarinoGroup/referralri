@@ -1,0 +1,475 @@
+{
+  "categories": {
+    "Decking": {
+      "name": "Decking Companies",
+      "icon": "fas fa-hammer",
+      "businesses": [
+        {
+          "name": "Deck Masters RI",
+          "rating": 5.0,
+          "location": "Middletown, RI",
+          "services": "Custom Decks | Composite & Wood | Repairs",
+          "about": "Specializing in premium deck construction and restoration with over 15 years of experience. We use only the highest quality materials and provide comprehensive warranties on all our work.",
+          "phone": "+14015551919",
+          "website": "https://deckmastersri.com"
+        },
+        {
+          "name": "Outdoor Living Spaces",
+          "rating": 4.2,
+          "location": "Portsmouth, RI",
+          "services": "Design & Build | Maintenance | Custom Features",
+          "about": "Creating beautiful outdoor living spaces that extend your home's comfort outside. From concept to completion, we handle every aspect of your deck project.",
+          "phone": "+14015552020",
+          "website": "https://outdoorlivingri.com"
+        },
+        {
+          "name": "Ocean Deck Builders",
+          "rating": 3.1,
+          "location": "Jamestown, RI",
+          "services": "Deck Installation | Repair | Custom Designs",
+          "about": "Coastal deck specialists who understand the unique challenges of Rhode Island's marine environment. We build decks that withstand salt air and weather.",
+          "phone": "+14015551111",
+          "website": "https://oceandeckbuildersri.com"
+        }
+      ]
+    },
+    "Fencing": {
+      "name": "Fencing Companies",
+      "icon": "fas fa-shield-alt",
+      "businesses": [
+        {
+          "name": "First Choice Fence",
+          "rating": 4.9,
+          "location": "Smithfield, RI",
+          "services": "Vinyl | Wood | Aluminum | Chain Link",
+          "about": "Rhode Island's premier fencing contractor with a reputation for quality installations and competitive pricing. We offer free estimates and financing options.",
+          "phone": "+14015552323",
+          "website": "https://firstchoicefence.com"
+        },
+        {
+          "name": "Boundary Pros",
+          "rating": 4.3,
+          "location": "Johnston, RI",
+          "services": "Custom Gates | Privacy Fencing | Commercial & Residential",
+          "about": "Professional fencing solutions for both residential and commercial properties. Our team specializes in custom gate systems and security fencing.",
+          "phone": "+14015552424",
+          "website": "https://boundaryprori.com"
+        },
+        {
+          "name": "Fencing Solutions RI",
+          "rating": 2.8,
+          "location": "West Greenwich, RI",
+          "services": "Aluminum | Wood | Privacy Fencing",
+          "about": "Affordable fencing solutions with a focus on durability and style. We work with homeowners to find the perfect fencing solution for their needs and budget.",
+          "phone": "+14015553030",
+          "website": "https://fencingsolutionsri.com"
+        }
+      ]
+    },
+    "Flooring": {
+      "name": "Flooring Installation",
+      "icon": "fas fa-th-large",
+      "businesses": [
+        {
+          "name": "Premium Floors RI",
+          "rating": 4.8,
+          "location": "Newport, RI",
+          "services": "Hardwood | Laminate | Tile | Luxury Vinyl",
+          "about": "Luxury flooring installation with a focus on craftsmanship and customer satisfaction. We offer a wide selection of premium flooring materials and expert installation.",
+          "phone": "+14015553333",
+          "website": "https://premiumfloorsri.com"
+        },
+        {
+          "name": "Floor Masters",
+          "rating": 4.1,
+          "location": "Cranston, RI",
+          "services": "Commercial & Residential | Custom Designs | Floor Repair",
+          "about": "Professional flooring services for both commercial and residential clients. Our experienced team handles everything from simple repairs to complete floor renovations.",
+          "phone": "+14015554444",
+          "website": "https://floormastersri.com"
+        },
+        {
+          "name": "Rhode Island Flooring",
+          "rating": 1.5,
+          "location": "Warwick, RI",
+          "services": "Vinyl | Laminate | Repair Services",
+          "about": "Budget-friendly flooring solutions with a focus on vinyl and laminate installations. We offer competitive pricing and quick turnaround times.",
+          "phone": "+14015554555",
+          "website": "https://rhodeislandflooring.com"
+        }
+      ]
+    },
+    "Handyman": {
+      "name": "Handyman Services",
+      "icon": "fas fa-tools",
+      "businesses": [
+        {
+          "name": "Mr. Fix It",
+          "rating": 4.9,
+          "location": "Warren, RI",
+          "services": "General Repairs | Installation | Home Improvement",
+          "about": "Your trusted handyman for all home repairs and improvements. No job too small! We pride ourselves on reliable service and fair pricing for all your home maintenance needs.",
+          "phone": "+14015552929",
+          "website": "https://mrfixitri.com"
+        },
+        {
+          "name": "Handy Helper",
+          "rating": 4.6,
+          "location": "Tiverton, RI",
+          "services": "Small Repairs | Maintenance | Assembly Services",
+          "about": "Professional handyman services specializing in small repairs and home maintenance. We offer same-day service for urgent repairs and competitive rates.",
+          "phone": "+14015553030",
+          "website": "https://handyhelperri.com"
+        },
+        {
+          "name": "Home Repairs LLC",
+          "rating": 2.7,
+          "location": "Bristol, RI",
+          "services": "General Home Repairs | Odd Jobs | Furniture Assembly",
+          "about": "Affordable home repair services for basic maintenance and odd jobs. We specialize in quick fixes and furniture assembly with flexible scheduling.",
+          "phone": "+14015551212",
+          "website": "https://homerepairsllc.com"
+        }
+      ]
+    },
+    "Hardscape": {
+      "name": "Hardscape Companies",
+      "icon": "fas fa-mountain",
+      "businesses": [
+        {
+          "name": "Stone & Paver Pros",
+          "rating": 4.8,
+          "location": "Narragansett, RI",
+          "services": "Patios | Walkways | Retaining Walls",
+          "about": "Expert hardscape contractors specializing in natural stone and paver installations. We create stunning outdoor living spaces that add value and beauty to your property.",
+          "phone": "+14015552121",
+          "website": "https://stonepaverpros.com"
+        },
+        {
+          "name": "Hardscape Design Co",
+          "rating": 4.4,
+          "location": "North Kingstown, RI",
+          "services": "Custom Design | Fire Pits | Outdoor Kitchens",
+          "about": "Full-service hardscape design and installation company. From conceptual design to final installation, we create outdoor spaces that perfectly complement your lifestyle.",
+          "phone": "+14015552222",
+          "website": "https://hardscapedesignco.com"
+        },
+        {
+          "name": "Paver Pros of RI",
+          "rating": 2.3,
+          "location": "South Kingstown, RI",
+          "services": "Brick Paving | Stone Work | Installation",
+          "about": "Basic hardscape installation services with competitive pricing. We focus on straightforward paver and stone installations for driveways, walkways, and patios.",
+          "phone": "+14015552345",
+          "website": "https://paverprosofri.com"
+        }
+      ]
+    },
+    "Remodeling": {
+      "name": "Home Remodeling",
+      "icon": "fas fa-home",
+      "businesses": [
+        {
+          "name": "Elite Renovations",
+          "rating": 4.9,
+          "location": "Barrington, RI",
+          "services": "Kitchen & Bath | Additions | Full Home Remodeling",
+          "about": "Premium home renovation services with a focus on luxury finishes and attention to detail. Our design-build approach ensures seamless project execution from start to finish.",
+          "phone": "+14015551717",
+          "website": "https://eliterenovationsri.com"
+        },
+        {
+          "name": "Modern Home Solutions",
+          "rating": 4.5,
+          "location": "Cumberland, RI",
+          "services": "Design Services | Custom Work | Project Management",
+          "about": "Contemporary home renovation specialists offering full-service design and construction. We combine modern aesthetics with functional design to create stunning living spaces.",
+          "phone": "+14015551818",
+          "website": "https://modernhomeri.com"
+        },
+        {
+          "name": "Home Tech Remodeling",
+          "rating": 2.6,
+          "location": "East Providence, RI",
+          "services": "Windows & Doors | Kitchen Updates | Renovation",
+          "about": "Affordable home renovation services focusing on essential updates and improvements. We offer practical solutions for homeowners looking to update their homes on a budget.",
+          "phone": "+14015551999",
+          "website": "https://hometechremodeling.com"
+        }
+      ]
+    },
+    "HVAC": {
+      "name": "HVAC Services",
+      "icon": "fas fa-fan",
+      "businesses": [
+        {
+          "name": "Climate Control Experts",
+          "rating": 4.9,
+          "location": "Cranston, RI",
+          "services": "Heating & Cooling | 24/7 Emergency Service | Maintenance Plans",
+          "about": "Expert HVAC services with over 20 years of experience. We provide reliable heating and cooling solutions with 24/7 emergency service throughout Rhode Island.",
+          "phone": "+14015553636",
+          "website": "https://climatecontrolexpertsri.com"
+        },
+        {
+          "name": "Comfort Air Systems",
+          "rating": 4.4,
+          "location": "Newport, RI",
+          "services": "Installation | Repair | Preventive Maintenance",
+          "about": "Professional HVAC installation and repair services. We specialize in energy-efficient systems and comprehensive maintenance programs.",
+          "phone": "+14015553737",
+          "website": "https://comfortairri.com"
+        }
+      ]
+    },
+    "Plumbing": {
+      "name": "Plumbing Services",
+      "icon": "fas fa-wrench",
+      "businesses": [
+        {
+          "name": "Rhode Island Plumbing Pros",
+          "rating": 4.8,
+          "location": "Providence, RI",
+          "services": "Emergency Plumbing | Pipe Repair | Water Heater Installation",
+          "about": "Licensed master plumbers providing emergency and routine plumbing services. Available 24/7 for urgent repairs with upfront pricing.",
+          "phone": "+14015553838",
+          "website": "https://riplumbingpros.com"
+        },
+        {
+          "name": "Reliable Plumbing Solutions",
+          "rating": 4.3,
+          "location": "Warwick, RI",
+          "services": "Drain Cleaning | Leak Detection | Bathroom Remodeling",
+          "about": "Full-service plumbing company specializing in residential and commercial plumbing solutions with competitive rates and quality workmanship.",
+          "phone": "+14015553939",
+          "website": "https://reliableplumbingri.com"
+        }
+      ]
+    },
+    "Electrical": {
+      "name": "Electrical Services",
+      "icon": "fas fa-bolt",
+      "businesses": [
+        {
+          "name": "Ocean State Electric",
+          "rating": 4.9,
+          "location": "Pawtucket, RI",
+          "services": "Electrical Installation | Panel Upgrades | Smart Home Wiring",
+          "about": "Licensed electricians providing safe, reliable electrical services. We specialize in residential electrical work, panel upgrades, and smart home installations.",
+          "phone": "+14015554040",
+          "website": "https://oceanstateelectric.com"
+        }
+      ]
+    },
+    "Roofing": {
+      "name": "Roofing Services",
+      "icon": "fas fa-home",
+      "businesses": [
+        {
+          "name": "Top Notch Roofing",
+          "rating": 4.8,
+          "location": "Coventry, RI",
+          "services": "New Roofs | Repairs | Emergency Service | Gutters",
+          "about": "Professional roofing contractors with over 15 years of experience. We provide quality roofing solutions with comprehensive warranties and emergency services.",
+          "phone": "+14015554141",
+          "website": "https://topnotchroofingri.com"
+        },
+        {
+          "name": "Rhode Island Roofing Co",
+          "rating": 4.2,
+          "location": "Lincoln, RI",
+          "services": "Residential & Commercial | Maintenance | Inspections",
+          "about": "Full-service roofing company serving residential and commercial clients. We offer roof maintenance programs and detailed inspections.",
+          "phone": "+14015554242",
+          "website": "https://rhodeislandroofingco.com"
+        }
+      ]
+    },
+    "Landscaping": {
+      "name": "Landscaping & Lawn Care",
+      "icon": "fas fa-seedling",
+      "businesses": [
+        {
+          "name": "Green Thumb Landscapes",
+          "rating": 4.7,
+          "location": "South Kingstown, RI",
+          "services": "Complete Lawn Care | Landscaping Design | Maintenance",
+          "about": "Professional landscaping and lawn care services. We create and maintain beautiful outdoor spaces with weekly maintenance and seasonal services.",
+          "phone": "+14015554343",
+          "website": "https://greenthumbri.com"
+        },
+        {
+          "name": "Perfect Lawns RI",
+          "rating": 4.5,
+          "location": "East Greenwich, RI",
+          "services": "Weekly Maintenance | Fertilization | Spring/Fall Cleanup",
+          "about": "Reliable lawn care services with a focus on healthy, beautiful lawns. We offer comprehensive maintenance programs and organic treatment options.",
+          "phone": "+14015554444",
+          "website": "https://perfectlawnsri.com"
+        }
+      ]
+    },
+    "Painting": {
+      "name": "Painting Services",
+      "icon": "fas fa-paint-roller",
+      "businesses": [
+        {
+          "name": "Fresh Coat Painters",
+          "rating": 4.8,
+          "location": "East Providence, RI",
+          "services": "Interior & Exterior Painting | Wallpaper | Custom Finishes",
+          "about": "Professional painting contractors specializing in high-quality interior and exterior painting. We use premium paints and provide detailed preparation.",
+          "phone": "+14015554545",
+          "website": "https://freshcoatpainters.com"
+        },
+        {
+          "name": "Color Masters RI",
+          "rating": 4.4,
+          "location": "Pawtucket, RI",
+          "services": "Commercial & Residential | Faux Finishes | Cabinet Painting",
+          "about": "Expert painters offering both residential and commercial services. We specialize in custom finishes and cabinet refinishing.",
+          "phone": "+14015554646",
+          "website": "https://colormasterri.com"
+        }
+      ]
+    },
+    "PestControl": {
+      "name": "Pest Control",
+      "icon": "fas fa-bug",
+      "businesses": [
+        {
+          "name": "Bug Busters RI",
+          "rating": 4.9,
+          "location": "Westerly, RI",
+          "services": "Residential & Commercial | Eco-Friendly Solutions | Preventive Care",
+          "about": "Professional pest control services using safe, effective methods. We provide ongoing protection with eco-friendly solutions and preventive treatments.",
+          "phone": "+14015554747",
+          "website": "https://bugbustersri.com"
+        }
+      ]
+    },
+    "TreeServices": {
+      "name": "Tree Services",
+      "icon": "fas fa-tree",
+      "businesses": [
+        {
+          "name": "Arbor Care Experts",
+          "rating": 4.8,
+          "location": "North Providence, RI",
+          "services": "Tree Removal | Pruning | Emergency Services | Stump Grinding",
+          "about": "Certified arborists providing comprehensive tree care services. We offer safe tree removal, professional pruning, and emergency storm cleanup.",
+          "phone": "+14015554848",
+          "website": "https://arborcareexpertsri.com"
+        }
+      ]
+    },
+    "Solar": {
+      "name": "Solar Installation",
+      "icon": "fas fa-solar-panel",
+      "businesses": [
+        {
+          "name": "Rhode Island Solar Solutions",
+          "rating": 4.7,
+          "location": "Providence, RI",
+          "services": "Residential & Commercial | Battery Storage | Solar Panels",
+          "about": "Leading solar installation company helping homeowners reduce energy costs. We handle everything from design to installation and maintenance.",
+          "phone": "+14015554949",
+          "website": "https://rhodeislandsolarsolutions.com"
+        },
+        {
+          "name": "Green Energy Pros",
+          "rating": 4.3,
+          "location": "Warwick, RI",
+          "services": "Solar Design | Installation | Maintenance | Financing",
+          "about": "Solar energy specialists offering complete solar solutions with flexible financing options and comprehensive warranties.",
+          "phone": "+14015555050",
+          "website": "https://greenenergyprosi.com"
+        }
+      ]
+    },
+    "Windows": {
+      "name": "Window Installation",
+      "icon": "fas fa-window-maximize",
+      "businesses": [
+        {
+          "name": "Clear View Windows",
+          "rating": 4.6,
+          "location": "Woonsocket, RI",
+          "services": "Energy Efficient | Custom Windows | Professional Installation",
+          "about": "Specializing in energy-efficient window replacement and installation. We offer a wide selection of quality windows with professional installation.",
+          "phone": "+14015555151",
+          "website": "https://clearviewwindowsri.com"
+        }
+      ]
+    },
+    "Cleaning": {
+      "name": "Cleaning Services",
+      "icon": "fas fa-broom",
+      "businesses": [
+        {
+          "name": "Sparkling Clean RI",
+          "rating": 4.8,
+          "location": "Cranston, RI",
+          "services": "Residential Cleaning | Deep Cleaning | Move-in/out Cleaning",
+          "about": "Professional house cleaning services with attention to detail. We offer regular cleaning schedules and one-time deep cleaning services.",
+          "phone": "+14015555252",
+          "website": "https://sparklingcleanri.com"
+        },
+        {
+          "name": "Maid Brigade Rhode Island",
+          "rating": 4.5,
+          "location": "Warwick, RI",
+          "services": "Weekly Cleaning | Bi-weekly | Monthly | Green Cleaning",
+          "about": "Trusted cleaning service using eco-friendly products. We provide flexible scheduling and customized cleaning plans for every home.",
+          "phone": "+14015555353",
+          "website": "https://maidbrigade.com/rhodeisland"
+        }
+      ]
+    },
+    "Pool": {
+      "name": "Pool Services",
+      "icon": "fas fa-swimmer",
+      "businesses": [
+        {
+          "name": "Crystal Clear Pools",
+          "rating": 4.7,
+          "location": "Newport, RI",
+          "services": "Pool Maintenance | Repair | Opening/Closing | Chemical Balancing",
+          "about": "Complete pool care services to keep your pool crystal clear all season. We offer maintenance plans, repairs, and seasonal services.",
+          "phone": "+14015555454",
+          "website": "https://crystalclearpoolsri.com"
+        }
+      ]
+    },
+    "GarageDoor": {
+      "name": "Garage Door Services",
+      "icon": "fas fa-door-open",
+      "businesses": [
+        {
+          "name": "Garage Door Experts RI",
+          "rating": 4.6,
+          "location": "Johnston, RI",
+          "services": "Installation | Repair | Opener Service | Emergency Repair",
+          "about": "Professional garage door installation and repair services. We offer same-day service for emergency repairs and installation of quality garage doors.",
+          "phone": "+14015555555",
+          "website": "https://garagedoorexpertsri.com"
+        }
+      ]
+    },
+    "Security": {
+      "name": "Security Systems",
+      "icon": "fas fa-shield-alt",
+      "businesses": [
+        {
+          "name": "SecureHome Solutions",
+          "rating": 4.8,
+          "location": "Providence, RI",
+          "services": "Smart Home Security | 24/7 Monitoring | Professional Installation",
+          "about": "Advanced home security systems with smart technology and professional monitoring. We provide complete security solutions for your peace of mind.",
+          "phone": "+14015555656",
+          "website": "https://securehomesolutionsri.com"
+        }
+      ]
+    }
+  }
+}
