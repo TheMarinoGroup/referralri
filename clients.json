@@ -22,16 +22,7 @@
           "phone": "+14015552020",
           "website": "https://outdoorlivingri.com"
         },
-        {
-          "name": "Ocean Deck Builders",
-          "rating": 3.1,
-          "location": "Jamestown, RI",
-          "services": "Deck Installation | Repair | Custom Designs",
-          "about": "Coastal deck specialists who understand the unique challenges of Rhode Island's marine environment. We build decks that withstand salt air and weather.",
-          "phone": "+14015551111",
-          "website": "https://oceandeckbuildersri.com"
-        }
-      ]
+       ]
     },
     "Fencing": {
       "name": "Fencing Companies",
