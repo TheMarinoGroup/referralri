@@ -62,26 +62,28 @@ class ReferralDirectory {
 
     getServiceDescription(key, businessCount) {
         const descriptions = {
+            'Cleaning': 'Professional residential and commercial cleaning services',
             'Decking': 'Professional deck construction, repair, and maintenance services',
+            'Electrical': 'Licensed electrical services for residential and commercial properties',
             'Fencing': 'Quality fencing installation and repair for residential and commercial properties',
             'Flooring': 'Expert flooring installation including hardwood, tile, and luxury vinyl',
+            'GarageDoor': 'Garage door installation, repair, and maintenance',
             'Handyman': 'Reliable handyman services for all your home repair and maintenance needs',
             'Hardscape': 'Beautiful hardscape design and installation for patios, walkways, and more',
-            'Remodeling': 'Complete home renovation and remodeling services',
             'HVAC': 'Heating, ventilation, and air conditioning installation and repair',
-            'Plumbing': 'Professional plumbing services for repairs, installation, and maintenance',
-            'Electrical': 'Licensed electrical services for residential and commercial properties',
-            'Roofing': 'Quality roofing installation, repair, and maintenance services',
             'Landscaping': 'Complete landscaping and lawn care services',
             'Painting': 'Professional interior and exterior painting services',
             'PestControl': 'Effective pest control solutions for homes and businesses',
-            'TreeServices': 'Professional tree removal, pruning, and care services',
-            'Solar': 'Solar panel installation and renewable energy solutions',
-            'Windows': 'Window installation and replacement services',
-            'Cleaning': 'Professional residential and commercial cleaning services',
+            'Plumbing': 'Professional plumbing services for repairs, installation, and maintenance',
             'Pool': 'Complete pool maintenance and repair services',
-            'GarageDoor': 'Garage door installation, repair, and maintenance',
-            'Security': 'Home security system installation and monitoring'
+            'PressureWashing': 'Professional pressure washing and exterior cleaning services',
+            'Remodeling': 'Complete home renovation and remodeling services',
+            'Roofing': 'Quality roofing installation, repair, and maintenance services',
+            'Security': 'Home security system installation and monitoring',
+            'Solar': 'Solar panel installation and renewable energy solutions',
+            'TreeServices': 'Professional tree removal, pruning, and care services',
+            'WindowCleaning': 'Professional window cleaning for residential and commercial properties',
+            'Windows': 'Window installation and replacement services'
         };
         
         return descriptions[key] || `Professional ${key.toLowerCase()} services in Rhode Island`;
